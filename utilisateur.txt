@@ -1,0 +1,6 @@
+yasmine amor 10833472 1599932 yasmine123 femme candidat 12 -1 30 7 2002 
+jasmine amor 4564888 54654548 jasmine123 femme agent_bureau 9 1 16 8 2003 
+aya amor 5645465 1236547 aya123 femme electeur 8 3 5 5 1980 
+ahmed amar 98976566 13215778 ahmed123 homme candidat 15 7 12 1 1990 
+anis ben_amor 4564888 54654548 anis123 homme electeur 16 9 14 4 2000 
+hedi sassi 15648798 34654748 hedi123 homme agent_bureau 11 6 11 12 1997 
